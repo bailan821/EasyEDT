@@ -35,11 +35,11 @@ chmod +x easyedt-x86_64
 python easyedt.py
 
 ## 📂项目结构
-### EasyEDT/
-### ├─ assets      放展示图片的文件夹
-### ├─ easyedt.py  主程序源码
-### ├─ LICENSE     开源协议
-### └─ README.md   使用说明
+#### EasyEDT/
+#### ├─ assets      放展示图片的文件夹
+#### ├─ easyedt.py  主程序源码
+#### ├─ LICENSE     开源协议
+#### └─ README.md   使用说明
 
 
 
