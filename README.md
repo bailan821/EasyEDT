@@ -32,7 +32,7 @@ chmod +x easyedt-x86_64
 ./easyedt-x86_64
 
 ### 2.运行主程序(ARM)
-python easyedt.py
+python easyedt-x86_64.py
 
 ## 📂项目结构
 #### EasyEDT/
