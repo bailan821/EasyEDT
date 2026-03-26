@@ -17,22 +17,14 @@ EasyEDT 是一款面向新手设计的无图形界面环境的轻量化终端文
 ![图片2](https://github.com/bailan821/EasyEDT/blob/main/assets/2.png)
 ## 🖥 支持平台
 - **x86_64 Linux / WSL**  
-  提供预编译二进制，直接运行
+  直接执行 Python 源码
 - **ARM 平台**（Termux / 开发板 / 嵌入式设备）  
   直接执行 Python 源码
 - 其他支持 Python 的终端环境均可通用
 
 ## 🔧 使用方法
-### 1. 预编译二进制（x86_64 Linux）
-
-# 赋予执行权限
-chmod +x easyedt-x86_64
-
-# 启动编辑器
-./easyedt-x86_64
-
-### 2.运行主程序(ARM)
-python easyedt.py
+### 运行主程序(ARM)
+python3 easyedt.py
 
 ## 📂项目结构
 #### EasyEDT/
